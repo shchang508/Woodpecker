@@ -403,7 +403,7 @@ namespace Woodpecker
 
                         int AutoBoxPortLengh = AutoBoxPort.Length;
                         string AutoBoxPortFinal = AutoBoxPort.Remove(AutoBoxPortLengh - 1);
-                        
+
                         if (AutoBoxPortSubstring.Substring(0, 3) == "COM")
                         {
                             ini12.INIWrite(Global.MainSettingPath, "Device", "AutoboxExist", "1");
@@ -454,6 +454,7 @@ namespace Woodpecker
             string[] Device = { "AutoboxExist", "AutoboxVerson", "AutoboxPort", "CameraExist", "RedRatExist", "DOS", "RunAfterStartUp" };
             string[] RedRat = { "RedRatIndex", "DBFile", "Brands", "SerialNumber" };
             string[] Camera = { "VideoIndex", "VideoNumber", "VideoName", "AudioIndex", "AudioNumber", "AudioName" };
+            string[] Canbus = { "Log", "DevIndex" };
             string[] PortA = { "Checked", "PortName", "BaudRate", "DataBit", "StopBits" };
             string[] PortB = { "Checked", "PortName", "BaudRate", "DataBit", "StopBits" };
             string[] PortC = { "Checked", "PortName", "BaudRate", "DataBit", "StopBits" };

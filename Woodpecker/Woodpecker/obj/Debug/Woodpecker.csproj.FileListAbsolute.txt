@@ -1,5 +1,4 @@
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\Woodpecker.exe.config
-D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.csproj.ResolveComReference.cache
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\Woodpecker.exe
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\Woodpecker.pdb
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\BlueRatLibrary.dll
@@ -20,6 +19,8 @@ D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\USBClassL
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\NPOI.xml
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\NPOI.OOXML.xml
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.csprojResolveAssemblyReference.cache
+D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.csproj.ResolveComReference.cache
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.Form1.resources
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.FormRC.resources
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.FormScriptHelper.resources
@@ -36,4 +37,3 @@ D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecke
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.csproj.GenerateResource.Cache
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.exe
 D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.pdb
-D:\Repo\Spider\branches\Woodpecker_All\Woodpecker\Woodpecker\obj\Debug\Woodpecker.csprojResolveAssemblyReference.cache
